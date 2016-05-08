@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HoTroHocTap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="qlsv">Quan ly sinh vien</string>
+    <string name="add_class">Them lop</string>
+    <string name="print_class">Xem danh sach lop</string>
+    <string name="manager_student">Quan ly sinh vien</string>
+    <string name="id_class">Ma lop:</string>
+    <string name="name_class">Ten lop:</string>
+    <string name="add_clear">Lam moi</string>
+    <string name="add_save">Luu</string>
+    <string name="deleteall">Xoa tat ca</string>
+    <string name="st">STT</string>
+    <string name="id">Ma lop</string>
+    <string name="name">Ten lop</string>
+    <string name="yes">Co</string>
+    <string name="no">Khong</string>
+    <string name="malop">Nhap ma lop</string>
+    <string name="tenlop">Nhap ten lop</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_qlsv">QLSVActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_fb">FBActivity</string>
+
+</resources>
